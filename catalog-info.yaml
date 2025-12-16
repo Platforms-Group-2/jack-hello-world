@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: jack-hello-world
+  description: GOATED REPO GOATED REPO GOATED REPO
+spec:
+  type: service
+  owner: user:default/guest
+  lifecycle: experimental
